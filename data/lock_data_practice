@@ -1,0 +1,9 @@
+[
+    {"comment":"this contains users loging and logout time","event_id":4800,"time":"2018-12-03 13:35:50.48,"username":"Sunil"},
+    {"event_id":4801,"time":"2018-12-03 10:26:28.066","username":"Sid"},
+    {"event_id":4800,"time":"2018-12-03 10:00:04.094","username":"Sid"},
+    {"event_id":4801,"time":"2018-12-03 15:04:39.415","username":"Sunil"},
+    {"event_id":4800,"time":"2018-12-03 10:30:19.343"	,"username":"Gaurav"},
+    {"event_id":4801,"time":"2018-12-03 09:56:35.311","username":"Gaurav"}
+    
+ ]
