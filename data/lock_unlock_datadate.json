@@ -1,0 +1,21 @@
+[
+ { "datadate":"2018-11-03"
+ {
+   {"username":"Sunil","process":"login","time":"2018-11-03 09:04:39.415","days":"saturday"},
+   {"username":"Sunil","process":"logout","time":"2018-11-03 16:39:39.415","days":"saturday"}
+ }
+ },
+ { "datadate":"2018-11-05"
+ {
+    {"username":"Sid","process":"login","time":"2018-11-05 10:04:39.415","days":"monday"},
+    {"username":"Sid","process":"logout","time":"2018-11-05 20:42:39.415","days":"monday"}
+ }
+ },
+ { "datadate":"2018-11-07"
+ {
+    {"username":"Gaurav","process":"login","time":"2018-11-07 06:04:39.415","days":"wednesday"},
+    {"username":"Gaurav","process":"logout","time":"2018-11-07 16:04:39.415","days":"wednesday"}
+ }
+ 
+ }
+]
